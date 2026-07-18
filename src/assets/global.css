@@ -1,0 +1,30 @@
+/* src/assets/global.css */
+
+/* 1. Base styles applied to the whole app */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #EEF8F3;
+  color: #333;
+  margin: 0;
+}
+
+/* 2. Shared utility classes you want to reuse anywhere */
+.btn-primary {
+  background-color: #42b883;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #35495e;
+}
+
+.header {
+  font-size: 64px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-family: 'Khmer Moul', 'Khmer OS Battambang', system-ui, sans-serif;
+}
