@@ -5,9 +5,9 @@ import Banner from '../components/Banner.vue'
 import ProductionTimeline from '../components/ProductionTimeline.vue'
 import reviewForm from '../components/ReviewForm.vue'
 import testimonials from '../components/Testimonials.vue'
-import backgroundImage from '../assets/image/photo_2026-07-10_15-37-58.jpg'
-import backgroundPic from '../assets/image/photo_2026-07-10_13-43-41.jpg' // your main image
-import logoPic from '../assets/image/LOGO.jpg' 
+import backgroundImage from '/image/photo_2026-07-10_15-37-58.jpg'
+import backgroundPic from '/image/photo_2026-07-10_13-43-41.jpg' // your main image
+import logoPic from '/image/LOGO.jpg' 
 
 function scrollToSection(sectionId: string) {
   const element = document.getElementById(sectionId)

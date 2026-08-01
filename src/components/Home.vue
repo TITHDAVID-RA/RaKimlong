@@ -1,7 +1,7 @@
 <script setup>
 // 1. Import your files directly so Vite bundles them properly
-import backgroundPic from '../assets/image/photo_2026-07-10_13-43-41.jpg' // your main image
-import logoPic from '../assets/image/LOGO.jpg'                      // your green brand logo
+import backgroundPic from '/public/image/photo_2026-07-10_13-43-41.jpg' // your main image
+import logoPic from '/public/image/LOGO.jpg'                      // your green brand logo
 </script>
 
 <template>

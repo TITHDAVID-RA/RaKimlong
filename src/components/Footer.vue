@@ -1,23 +1,23 @@
 <script setup lang="ts">
 // Import the main brand logo asset
-import logoPic from '../assets/image/LOGO.jpg'
+import logoPic from '/public/image/LOGO.jpg'
 
 // Import compliance logos (Place your extracted files into assets)
-import cert1 from '../assets/image/photo_1_2026-07-10_16-37-17.jpg'
-import cert2 from '../assets/image/photo_2_2026-07-10_16-37-17.jpg'
-import cert3 from '../assets/image/photo_3_2026-07-10_16-37-17.jpg'
-import cert4 from '../assets/image/photo_4_2026-07-10_16-37-17.jpg'
-import cert5 from '../assets/image/photo_5_2026-07-10_16-37-17.jpg'
-import cert6 from '../assets/image/photo_6_2026-07-10_16-37-17.jpg'
-import cert7 from '../assets/image/photo_7_2026-07-10_16-37-17.jpg'
+import cert1 from '/public/image/photo_1_2026-07-10_16-37-17.jpg'
+import cert2 from '/public/image/photo_2_2026-07-10_16-37-17.jpg'
+import cert3 from '/public/image/photo_3_2026-07-10_16-37-17.jpg'
+import cert4 from '/public/image/photo_4_2026-07-10_16-37-17.jpg'
+import cert5 from '/public/image/photo_5_2026-07-10_16-37-17.jpg'
+import cert6 from '/public/image/photo_6_2026-07-10_16-37-17.jpg'
+import cert7 from '/public/image/photo_7_2026-07-10_16-37-17.jpg'
 
 // Import payment gateways
-import visa from '../assets/image/visa-1.jpg'
-import mastercard from '../assets/image/MClogo-c823e495c5cf455c89ddfb0e17fc7978.jpg'
-import unionpay from '../assets/image/UnionPay_logo.svg.webp'
-import wing from '../assets/image/oW42OTEcgNgP2WDuDnO38N1bnVQcAeYm7TnLJlxF0OE.avif'
-import aba from '../assets/image/unnamed.png'
-import khqr from '../assets/image/KHQR-available-here-logo-with-bg.webp'
+import visa from '/public/image/visa-1.jpg'
+import mastercard from '/public/image/MClogo-c823e495c5cf455c89ddfb0e17fc7978.jpg'
+import unionpay from '/public/image/UnionPay_logo.svg.webp'
+import wing from '/public/image/oW42OTEcgNgP2WDuDnO38N1bnVQcAeYm7TnLJlxF0OE.avif'
+import aba from '/public/image/unnamed.png'
+import khqr from '/public/image/KHQR-available-here-logo-with-bg.webp'
 import { useRouter } from 'vue-router'
 
 const router = useRouter()

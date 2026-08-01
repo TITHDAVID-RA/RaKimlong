@@ -19,7 +19,7 @@ function goToCart() {
 <template>
   <nav class="navbar">
     <div class="navbar__logo" @click="router.push('/')">
-      <img src="../assets/image/LOGO.jpg" alt="Logo" />
+      <img src="/public/image/LOGO.jpg" alt="Logo" />
     </div>
     
     <div class="navbar_icon" @click="goToCart">

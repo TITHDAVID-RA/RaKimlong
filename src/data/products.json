@@ -6,13 +6,13 @@
     "category": "តែសុខភាព",
     "packInfo": "៥០០ នៅក្នុងស្តុក",
     "price": "$៦.៥០",
-    "image": "../assets/image/soursop-fruit-tea-100g.jpeg",
+    "image": "/image/Soursop Fruit Tea 100g.jpeg",
     "isBestSeller": true,
     "images": [
-      "../assets/image/soursop-fruit-tea-palm-tube.jpeg",
-      "../assets/image/soursop-fruit-tea-100g.jpeg",
-      "../assets/image/soursop-fruit-tea-500g.jpeg",
-      "../assets/image/soursop-fruit-tea-35bags.jpeg"
+      "/image/Soursop Fruit Tea (Palm Tube).jpeg",
+      "/image/Soursop Fruit Tea 100g.jpeg",
+      "/image/Soursop Fruit Tea 500g.jpeg",
+      "/image/Soursop Fruit Tea 35bags.jpeg"
     ],
     "shortDescription": "តែផ្លែឈើទៀបបារាំងធម្មជាតិផលិតពីផ្លែទៀបបារាំងសុទ្ធ100%ដែលប្រមូលផលពីតំបន់ខ្ពង់រាបនៃភាគពាយ័ព្យនៃប្រទេសកម្ពុជា។ កម្រនិងមានជីវជាតិខ្ពស់វាជួយគាំទ្រដល់សុខភាពទូទៅ។",
     "benefitsShort": [
@@ -55,7 +55,7 @@
     "category": "តែសុខភាព",
     "packInfo": "៥០០ នៅក្នុងស្តុក",
     "price": "$៦.៥០",
-    "image": "../assets/image/ginger-tea-100g.jpeg",
+    "image": "/image/Ginger Tea 100g.jpeg",
     "isBestSeller": false,
     "shortDescription": "គ្រឿងផ្សំ៖ ធម្មជាតិ ១០០%, គ្មានជាតិកាហ្វេអ៊ីន, គ្មានជាតិស្ករ, គ្មានពណ៌",
     "benefitsShort": [
@@ -101,7 +101,7 @@
     "category": "តែសុខភាព",
     "packInfo": "៥00 នៅក្នុងស្តុក",
     "price": "$៦.៥០",
-    "image": "../assets/image/lemongrass-ginger-tea-100g.jpeg",
+    "image": "/image/Lemongrass & Ginger Tea 100g.jpeg",
     "isBestSeller": false
   },
   {
@@ -111,7 +111,7 @@
     "category": "តែសុខភាព",
     "packInfo": "៥០០ នៅក្នុងស្តុក",
     "price": "$៦.៥០",
-    "image": "../assets/image/turmeric-tea-100g.jpeg",
+    "image": "/image/Turmeric Tea 100g.jpeg",
     "isBestSeller": false
   },
   {
@@ -121,7 +121,7 @@
     "category": "តែសុខភាព",
     "packInfo": "៥០០ នៅក្នុងស្តុក",
     "price": "$៧.៥០",
-    "image": "../assets/image/moringa-tea.jpeg",
+    "image": "/image/moringa tea.jpeg",
     "isBestSeller": false
   },
   {
@@ -131,7 +131,7 @@
     "category": "តែសុខភាព",
     "packInfo": "៥០០ នៅក្នុងស្តុក",
     "price": "$៦.00",
-    "image": "../assets/image/moringa-coffee.jpeg",
+    "image": "/image/moringa coffee.jpeg",
     "isBestSeller": false
   }
 ]

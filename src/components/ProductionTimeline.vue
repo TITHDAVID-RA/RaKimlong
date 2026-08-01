@@ -2,12 +2,12 @@
 import { ref } from 'vue'
 
 // Import your 6 process snapshots here
-import step1Img from '../assets/image/photo_2026-07-10_15-25-28.jpg'
-import step2Img from '../assets/image/photo_5_2026-07-10_15-19-50.jpg'
-import step3Img from '../assets/image/photo_4_2026-07-10_15-19-50.jpg'
-import step4Img from '../assets/image/photo_3_2026-07-10_15-19-50.jpg'
-import step5Img from '../assets/image/photo_1_2026-07-10_15-19-50.jpg'
-import step6Img from '../assets/image/photo_2_2026-07-10_15-19-50.jpg'
+import step1Img from '/public/image/photo_2026-07-10_15-25-28.jpg'
+import step2Img from '/public/image/photo_5_2026-07-10_15-19-50.jpg'
+import step3Img from '/public/image/photo_4_2026-07-10_15-19-50.jpg'
+import step4Img from '/public/image/photo_3_2026-07-10_15-19-50.jpg'
+import step5Img from '/public/image/photo_1_2026-07-10_15-19-50.jpg'
+import step6Img from '/public/image/photo_2_2026-07-10_15-19-50.jpg'
 
 const steps = ref([
   {
